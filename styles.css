@@ -1,0 +1,4 @@
+body{font-family:Arial, Helvetica, sans-serif}
+#list li.done{text-decoration:line-through;opacity:.6}
+#list li{display:flex;gap:8px;align-items:center;margin:4px 0}
+button{cursor:pointer}
